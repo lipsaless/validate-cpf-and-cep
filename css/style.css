@@ -1,0 +1,33 @@
+#form {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#msg {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.ui.form .field.success label {
+    color: #308330;
+}
+
+.ui.form .field.success input {
+    background: #f4faf4 none repeat scroll 0 0;
+    border-color: #a3c293 !important;
+    border-radius: 0.285714rem;
+    box-shadow: none !important;
+    color: #308330 !important;
+}
+
+.ui.form .field.success p {
+    border-color: #a3c293 !important;
+    border-radius: 0.285714rem;
+    box-shadow: none !important;
+    color: #308330 !important;
+}
